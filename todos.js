@@ -50,14 +50,13 @@ function newTodoList(){
 
 //for checked line
 
-/*
 
 function deleteelement(delunq){
     let del_element = document.getElementById(delunq)
     unorder_ele.removeChild(del_element)
 }
 
-*/
+
 
 function add(){
    newTodoList()
